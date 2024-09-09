@@ -1,0 +1,4 @@
+#Sun Sep 08 18:45:05 PET 2024
+base.0=D\:\\Programacion y esas cosas\\codigo fuente para algo de Android\\antes de la tragedia\\basic-android-kotlin-compose-training-cupcake-starter\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
